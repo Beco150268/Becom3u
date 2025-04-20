@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/SHOW4K1.png" group-title="TR ULUSAL 4K RAW",SHOW TV 4K
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7caxd3nzmvyp&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/TV84K.png" group-title="TR ULUSAL 4K RAW",TV8 4K
+https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=7caxmm5x053e&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/kanal74K.png" group-title="TR ULUSAL 4K RAW",KANAL 7 4K
+https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=7caxsiy05g6e&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL 4K RAW",ATV RAW
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=AEdSM2AI8pfFHX24SmWyPQ&e=1745202668
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/trt14K.png" group-title="TR ULUSAL 4K RAW",TRT 1 RAW
+https://trt.daioncdn.net/trt-1/master_480p.m3u8?&sid=7caxviq8bu60&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/kanaldd4kk.png" group-title="TR ULUSAL 4K RAW",KANAL D RAW
+https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=7caxxrm51vlq&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/STAR4K.png" group-title="TR ULUSAL 4K RAW",STAR TV RAW
+https://dogus.daioncdn.net/startv/startv_480p.m3u8?&sid=7caxyq3kyg3y&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/beyaztv4K.png" group-title="TR ULUSAL 4K RAW",BEYAZ TV 4K
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_480p.m3u8?&sid=7cay045wriqt&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
