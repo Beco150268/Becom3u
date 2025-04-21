@@ -8,7 +8,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:1  tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="TR ULUSAL",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL ",ATV
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
 http://185.234.111.229:8000/play/a018
 
 #EXTINF:1  tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" tvg-name="ATV Avrupa" group-title="TR ULUSAL",ATV Avrupa
@@ -183,9 +183,6 @@ https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" tvg-name="TGRT Belgesel" group-title="YEREL",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-
-#EXTINF:1  tvg-logo="https://flashhabertv.com/assets/images/logo.png" tvg-name="Flash Haber" group-title="YEREL",Flash Haber
-https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 
 #EXTINF:1  tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="YEREL",HT-SPOR TV
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
