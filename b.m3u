@@ -5,7 +5,7 @@ https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0
 https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=7caxmm5x053e&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/kanal74K.png" group-title="TR ULUSAL",KANAL 7
 https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=7caxsiy05g6e&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
-#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
+#EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL ",ATV
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1 tvg-logo="https://betulunevisleri.xyz/images/trt14K.png" group-title="TR ULUSAL",TRT 1
 https://trt.daioncdn.net/trt-1/master_480p.m3u8?&sid=7caxviq8bu60&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
