@@ -140,6 +140,19 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" tvg-name="TGRT Haber" group-title="HABER",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
+#EXTINF:1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-name="TGRT Haber" group-title="HABER",A Haber
+http://185.234.111.229:8000/play/a019
+
+#EXTINF:-1  vg-logo="https://i.imgur.com/eRR0gkC.png" group-title="HABER",GRT
+http://185.234.111.229:8000/play/a04f
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="HABER",Haber Global
+http://185.234.111.229:8000/play/a05k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="HABER",Sozcu TV
+http://185.234.111.229:8000/play/a00y
+
 
 ##YEREL##
 
@@ -279,11 +292,97 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:1  tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" group-title="YEREL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" tvg-name="Al-Zahra TV Turkic" group-title="YEREL",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="YEREL",Agro TV
+http://185.234.111.229:8000/play/a011
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/taaRzdO.png" group-title="YEREL",Anadolu Dernek TV
+http://185.234.111.229:8000/play/a020
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="YEREL",Ciftci TV
+http://185.234.111.229:8000/play/a04i
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVh3YST.png" group-title="YEREL",DRT TV
+http://185.234.111.229:8000/play/a06a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnNcvqE.png" group-title="YEREL",Ekin Turk
+http://185.234.111.229:8000/play/a025
+
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" group-title="YEREL",Ekoturk
+http://185.234.111.229:8000/play/a00w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BC3M4C.png" group-title="YEREL",Kablo Info
+http://185.234.111.229:8000/play/a01g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51xCkXG.png" group-title="YEREL",Kanal 12
+http://185.234.111.229:8000/play/a054
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="YEREL",Kanal 15
+http://185.234.111.229:8000/play/a04t
+
+http://185.234.111.229:8000/play/a04e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="YEREL",Kanal 3
+http://185.234.111.229:8000/play/a013
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png" group-title="YEREL",Kanal 32
+http://185.234.111.229:8000/play/a05r
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WYaoFZ.png" group-title="YEREL",Kanal 33
+http://185.234.111.229:8000/play/a067
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIGk6RN.png" group-title="YEREL",Kanal Avrupa
+http://185.234.111.229:8000/play/a066
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUsbxTQ.png" group-title="YEREL",Kanal B
+http://185.234.111.229:8000/play/a01b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="YEREL",Kanal Firat
+http://185.234.111.229:8000/play/a04l
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="YEREL",Kanal V
+http://185.234.111.229:8000/play/a04b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex67TP8.png" group-title="YEREL",Kon TV
+http://185.234.111.229:8000/play/a05o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lwRA84B.png" group-title="YEREL",Kudus TV
+http://185.234.111.229:8000/play/a065
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EruWIQ.png" group-title="YEREL",Luys TV
+http://185.234.111.229:8000/play/a06i
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUaWv4s.png" group-title="YEREL",Malatya Vuslat TV
+http://185.234.111.229:8000/play/a04x
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyWappU.png" group-title="YEREL",MaviKaradeniz TV
+http://185.234.111.229:8000/play/a04p 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="YEREL",Mercan TV
+http://185.234.111.229:8000/play/a04k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpRPX3a.png" group-title="YEREL",Rumeli TV
+http://185.234.111.229:8000/play/a023
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skeNzbc.png" group-title="YEREL",Tek Rumeli TV
+http://185.234.111.229:8000/play/a014
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/320px-T%C3%BCrksat_logo.svg.png" group-title="YEREL",Turksat Saat
+http://185.234.111.229:8000/play/a01f
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/320px-T%C3%BCrksat_logo.svg.png" group-title="YEREL",Turksat Tanitim
+http://185.234.111.229:8000/play/a01d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="YEREL",Vav TV
+http://185.234.111.229:8000/play/a01n
+
+
 
 
 ##MUZIK##
 
-#EXTINF:1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/800px-TRT_M%C3%BCzik.svg.png" tvg-name="TRT MÜZİK" group-title="YEREL",TRT MÜZİK
+#EXTINF:1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/800px-TRT_M%C3%BCzik.svg.png" tvg-name="TRT MÜZİK" group-title="MUZIK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:1  tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" tvg-name="KRAL POP TV" group-title="MUZIK",KRAL POP TV
@@ -318,3 +417,4 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 #EXTINF:1  tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_130.png" tvg-name="Tempo TV" group-title="MUZIK",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
