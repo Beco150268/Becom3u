@@ -115,6 +115,8 @@ https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1  tvg-name="Tek Rumeli TV" tvg-id="Tek Rumeli TV" tvg-logo="https://i.imgur.com/skeNzbc.png" group-title="YEREL",Tek Rumeli TV
 http://185.234.111.229:8000/play/a014
+#EXTINF:-1  tvg-name="Tele1.tr" tvg-id="Tele 1" tvg-logo="https://img.favpng.com/17/11/20/tele1-television-turkey-t-rksat-news-png-favpng-XwDbSt9w87sK9UmzifwTbTQQf.jpg" group-title="YEREL",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/800px-TGRT_Belgesel_logo.png" group-title="YEREL",TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1  tvg-name="Tivi 6 HD" tvg-id="Tivi 6 HD" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" group-title="YEREL",Tivi 6 HD
@@ -152,7 +154,9 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u
 #EXTINF:-1  tvg-name="360 TV" tvg-id="360 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TR ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="ATV" tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
-http://185.234.111.229:8000/play/a018
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1  tvg-name="ATV" tvg-id="ATV" tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-name="ATV Avrupa" tvg-id="ATV Avrupa" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="TR ULUSAL",ATV Avrupa
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1  tvg-name="BEYAZ TV" tvg-id="BEYAZ TV" tvg-logo="https://betulunevisleri.xyz/images/beyaztv4K.png" group-title="TR ULUSAL",BEYAZ TV
