@@ -224,6 +224,7 @@ http://116.202.117.244/trspor/trspor/playlist.m3u8
 #EXTINF:-1 tvg-name="TR: Euro Sport 1 HD"tvg-id="Euro Sport 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyTmKyFtCEqSd0tetBweF9b8hMYYFDMRdug&s"group-title="group-title="SPOR",Euro Sport 1
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10027
 #EXTINF:-1 tvg-name="TR: Euro Sport 2 HD"tvg-id="Euro Sport 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJ1cv0VwYzIIVdJ8bYp3sxDldKGQGFL4uPloKNJvam0P9H2O2w_LUnt2e-SOVKlbSv0I&usqp=CAU"group-title="SPOR",Euro Sport 2
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
 #EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="beIN SPORTS Haber.tr"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp"group-title="SPOR":http-referrer="":http-user-agent="",beIN SPORTS Haber
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10043
 #EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="SPOR",beIN Sports 1
