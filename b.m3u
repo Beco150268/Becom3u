@@ -207,6 +207,8 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 http://185.234.111.229:8000/play/a01x
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8" tvg-logo="https://betulunevisleri.xyz/images/TV84K.png" group-title="TR ULUSAL",TV8
 https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=7caxmm5x053e&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+
 #EXTINF:-1  tvg-name="Fenerbahçe TV" tvg-id="Fenerbahçe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" group-title="SPOR",Fenerbahçe TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Galatasaray TV" tvg-id="Galatasaray TV" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" group-title="SPOR",Galatasaray TV
@@ -219,6 +221,46 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 http://116.202.117.244/trspor/trspor/playlist.m3u8
 #EXTINF:-1  tvg-name="TR SPOR HD" tvg-id="TR SPOR HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/95548030-c5aa-11ee-9654-910bef251147/6205433/1078580974.jpeg" group-title="SPOR",TR SPOR HD
 http://116.202.117.244/trspor/trspor/playlist.m3u8
+#EXTINF:-1 tvg-name="TR: Euro Sport 1 HD"tvg-id="Euro Sport 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyTmKyFtCEqSd0tetBweF9b8hMYYFDMRdug&s"group-title="group-title="SPOR",Euro Sport 1
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10027
+#EXTINF:-1 tvg-name="TR: Euro Sport 2 HD"tvg-id="Euro Sport 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJ1cv0VwYzIIVdJ8bYp3sxDldKGQGFL4uPloKNJvam0P9H2O2w_LUnt2e-SOVKlbSv0I&usqp=CAU"group-title="SPOR",Euro Sport 2
+#EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="beIN SPORTS Haber.tr"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp"group-title="SPOR":http-referrer="":http-user-agent="",beIN SPORTS Haber
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10043
+#EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="SPOR",beIN Sports 1
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10040
+#EXTINF:-1 tvg-name="beIN Sports 1"tvg-id="beIN Sports 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="SPOR",beIN Sports 1
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10041
+#EXTINF:-1 tvg-name="beIN Sports 2"tvg-id="beIN Sports 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="SPOR",beIN Sports 2
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10038
+#EXTINF:-1 tvg-name="beIN Sports 2"tvg-id="beIN Sports 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="SPOR",beIN Sports 2
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10039
+#EXTINF:-1 tvg-name="beIN Sports 3"tvg-id="beIN Sports 3.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="SPOR",beIN Sports 3
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10036
+#EXTINF:-1 tvg-name="beIN Sports 3"tvg-id="beIN Sports 3.tr"tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports3-logo-freelogovectors.net_.png"group-title="SPOR",beIN Sports 3
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10037
+#EXTINF:-1 tvg-name="beIN Sports 4"tvg-id="beIN Sports 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="SPOR",beIN Sports 4
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10034
+#EXTINF:-1 tvg-name="beIN Sports 4"tvg-id="beIN Sports 4.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"group-title="SPOR",beIN Sports 4
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10035
+#EXTINF:-1 tvg-name="beIN Sports 5"tvg-id="beIN Sports 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="SPOR",beIN Sports 5
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57825
+#EXTINF:-1 tvg-name="beIN Sports 5"tvg-id="beIN Sports 5.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgap7OXfCmdW6GUBYgsU55-YYF2z3RNqsLjXhn8DyIoJ0Bm3rF65czeHs&s=10"group-title="SPOR",beIN Sports 5
+http://norsvpx.top:8080/231679575500969074/1511679575500969/
+#EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beIN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="SPOR",beIN Sports Max 1
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10031
+#EXTINF:-1 tvg-name="beIN Sports Max 1"tvg-id="beIN Sports Max 1.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoiQzN4iFLdekCGK5CnQeTphahiSJzFLrzsX1pqFDnIJImcNfJ7FiniXFY&s=10"group-title="SPOR",beIN Sports Max 1
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10032
+#EXTINF:-1 tvg-name="beIN Sports Max 2"tvg-id="beIN Sports Max 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3wvS_Ii7v6FGHBaq9Cm5CBqCKrB5qxQfU6WNNCGsXto33aOA6FgIUCXc&s=10"group-title="SPOR",beIN Sports Max 2
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10029
+#EXTINF:-1 tvg-name="beIN Sports Max 2"tvg-id="beIN Sports Max 2.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3wvS_Ii7v6FGHBaq9Cm5CBqCKrB5qxQfU6WNNCGsXto33aOA6FgIUCXc&s=10"group-title="SPOR",beIN Sports Max 2
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10030http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
+
+#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Sinema":http-referrer="":http-user-agent="",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Sinema":http-referrer="":http-user-agent="",Tabii TV Yedek
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
+#EXTINF:-1 tvg-name="TRT Nostalji"tvg-id="TRT Nostalji.tr"tvg-logo="https://yt3.googleusercontent.com/aTkDrJ4-tvQBycXJkhMgBBfX-o4iw0AMykmjfRCSiixpXIxmPj3spULmpXtKvSxn0aQeNfWNOQ=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema":http-referrer="":http-user-agent="",TRT Nostalji
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 
 #EXTINF:-1  tvg-name="Dream Türk" tvg-id="Dream Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" group-title="MUZIK",Dream Türk
