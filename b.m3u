@@ -219,6 +219,8 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 http://116.202.117.244/trspor/trspor/playlist.m3u8
 #EXTINF:-1  tvg-name="TR SPOR HD" tvg-id="TR SPOR HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/95548030-c5aa-11ee-9654-910bef251147/6205433/1078580974.jpeg" group-title="SPOR",TR SPOR HD
 http://116.202.117.244/trspor/trspor/playlist.m3u8
+
+
 #EXTINF:-1  tvg-name="Dream Türk" tvg-id="Dream Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bc/Dream_T%C3%BCrk_logosu.png" group-title="MUZIK",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1  tvg-name="KRAL POP TV" tvg-id="KRAL POP TV" tvg-logo="https://tvprofil.com/img/kanali-logo/kral_tr_pop_tv.png" group-title="MUZIK",KRAL POP TV
@@ -243,6 +245,8 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1  tvg-name="TRT MÜZİK" tvg-id="TRT MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TRT_M%C3%BCzik.svg/800px-TRT_M%C3%BCzik.svg.png" group-title="MUZIK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title="MUZIK",TATLISES TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1  tvg-name="Power Dance (1080p)" tvg-id="Power Dance (1080p)" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="MUZIK",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Power Türk Akustik (1080p)" tvg-id="Power Türk Akustik (1080p)" tvg-logo="https://i.imgur.com/driabBO.png" group-title="MUZIK",Power Türk Akustik (1080p)
@@ -251,12 +255,16 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Power Türk Slow (1080p)" tvg-id="Power Türk Slow (1080p)" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="MUZIK",Power Türk Slow (1080p)
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+
 #EXTINF:-1  tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A Haber
 http://185.234.111.229:8000/play/a019
 #EXTINF:-1  tvg-name="Akit TV" tvg-id="Akit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="HABER",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1  tvg-name="BENGÜTÜRK" tvg-id="BENGÜTÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Beng%C3%BCt%C3%BCrk_TV.png" group-title="HABER",BENGÜTÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="HABER",BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1  tvg-name="GRT" tvg-id="GRT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/da/Gagavuzya_Radyo_Televizyonu.png" group-title="HABER",GRT
 http://185.234.111.229:8000/play/a04f
 #EXTINF:-1  tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="HABER",Haber Global
@@ -277,8 +285,19 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="tv24 TV" tvg-id="tv24 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="HABER",tv24 TV
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1  tvg-name="ÜLKE TV" tvg-id="ÜLKE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png" group-title="HABER",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+
 #EXTINF:-1  tvg-name="3 Sat" tvg-id="3 Sat" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="GERMAN",3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/035b1dbf09841e0cc2b810a3edb48bf6/3/3.m3u8
 #EXTINF:-1  tvg-name="Zee One" tvg-id="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Zee_One_Logo_2015.png" group-title="GERMAN",Zee One
