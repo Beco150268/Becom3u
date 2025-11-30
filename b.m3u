@@ -171,9 +171,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?&sid=7caxxrm51vlq&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1  tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://static.g-cdn.app/streams/kanald-hd-tr.png" group-title="TR ULUSAL",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1  tvg-name="KANAL D" tvg-id="KANAL D" tvg-logo="https://betulunevisleri.xyz/images/kanaldd4kk.png" group-title="TR ULUSAL",KANAL D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 #EXTINF:-1  tvg-name="Euro D" tvg-id="Euro D" tvg-logo="https://eurod.kanald.com.tr/assets/img/eurod_footer.png" group-title="TR ULUSAL",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
-
 #EXTINF:-1  tvg-name="Euro Star TV" tvg-id="Euro Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="TR ULUSAL",Euro Star TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1  tvg-name="KANAL 7" tvg-id="KANAL 7" tvg-logo="https://betulunevisleri.xyz/images/kanal74K.png" group-title="TR ULUSAL",KANAL 7
@@ -182,62 +183,42 @@ https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=7caxsiy05g6e&app=f99587
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1  tvg-name="KANAL 7 HD" tvg-id="KANAL 7 HD" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="TR ULUSAL",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
 #EXTINF:-1  tvg-name="Show Max" tvg-id="Show Max" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="TR ULUSAL",Show Max
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-
-
 #EXTINF:-1  tvg-name="Show Türk" tvg-id="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/498px-Show_Turk_logo.svg.png" group-title="TR ULUSAL",Show Türk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-
-
 #EXTINF:-1  tvg-name="SHOW TV" tvg-id="SHOW TV" tvg-logo="https://betulunevisleri.xyz/images/SHOW4K1.png" group-title="TR ULUSAL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-
-
 #EXTINF:-1  tvg-name="SHOW TV" tvg-id="SHOW TV" tvg-logo="https://betulunevisleri.xyz/images/SHOW4K1.png" group-title="TR ULUSAL",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1  tvg-name="Show TV" tvg-id="Show TV" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" group-title="TR ULUSAL",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
-
-
-
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 #EXTINF:-1  tvg-name="STAR TV" tvg-id="STAR TV" tvg-logo="https://betulunevisleri.xyz/images/STAR4K.png" group-title="TR ULUSAL",STAR TV
 https://dogus.daioncdn.net/startv/startv_480p.m3u8?&sid=7caxyq3kyg3y&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-
-
 #EXTINF:-1  tvg-name="STAR TV" tvg-id="STAR TV" tvg-logo="https://betulunevisleri.xyz/images/STAR4K.png" group-title="TR ULUSAL",STAR TV
-https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1  tvg-name="Star TV" tvg-id="Star TV" tvg-logo="https://static.g-cdn.app/streams/star-hd-tr.png" group-title="TR ULUSAL",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 #EXTINF:-1  tvg-name="Teve 2 HD" tvg-id="Teve 2 HD" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR ULUSAL",Teve 2 HD
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1" tvg-logo="https://betulunevisleri.xyz/images/trt14K.png" group-title="TR ULUSAL",TRT 1
-https://trt.daioncdn.net/trt-1/master_480p.m3u8?&sid=7caxviq8bu60&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1  tvg-name="TRT 1 HD" tvg-id="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" group-title="TR ULUSAL",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
-
+http://95.174.71.114:80/TR-TRT1/index.m3u8
 #EXTINF:-1  tvg-name="TRT 2 HD" tvg-id="TRT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="TR ULUSAL",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="TR ULUSAL,TV8 5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1  tvg-name="TV 8 HD" tvg-id="TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR ULUSAL",TV 8 HD
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1  tvg-name="TV 8 INT" tvg-id="TV 8 INT" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="TR ULUSAL",TV 8 INT
-http://185.234.111.229:8000/play/a01x
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+ 
 #EXTINF:-1  tvg-name="TV8" tvg-id="TV8" tvg-logo="https://betulunevisleri.xyz/images/TV84K.png" group-title="TR ULUSAL",TV8
 https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=7caxmm5x053e&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="SPOR",TRT Spor
 http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
 #EXTINF:-1  tvg-name="Fenerbahçe TV" tvg-id="Fenerbahçe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg" group-title="SPOR",Fenerbahçe TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 #EXTINF:-1  tvg-name="Galatasaray TV" tvg-id="Galatasaray TV" tvg-logo="https://im.haberturk.com/2019/05/25/ver1558807967/2475655_810x458.jpg" group-title="SPOR",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1  tvg-name="HT-SPOR TV" tvg-id="HT-SPOR TV" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="SPOR",HT-SPOR TV
@@ -254,7 +235,8 @@ http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10027
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
 #EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="beIN SPORTS Haber.tr"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="SPOR",beIN SPORTS Haber
 http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10043
-
+#EXTINF:-1 tvg-name="A-Spor"tvg-id="A-Spor"tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="SPOR",A-SPOR
+http://116.202.238.88/ASPOR_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="Tabii TV"tvg-id="Tabii TV.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10"group-title="Sinema":http-referrer="":http-user-agent="",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
