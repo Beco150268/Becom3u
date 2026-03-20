@@ -156,11 +156,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="TR ULUSAL",Now TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="ATV" tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="ATV" tvg-logo="https://betulunevisleri.xyz/images/ATV4K2.png" group-title="TR ULUSAL",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1  tvg-name="ATV Avrupa" tvg-id="ATV Avrupa" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="TR ULUSAL",ATV Avrupa
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1  tvg-name="BEYAZ TV" tvg-id="BEYAZ TV" tvg-logo="https://betulunevisleri.xyz/images/beyaztv4K.png" group-title="TR ULUSAL",BEYAZ TV
@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 #EXTINF:-1  tvg-name="Teve 2 HD" tvg-id="Teve 2 HD" tvg-logo="https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="TR ULUSAL",Teve 2 HD
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1" tvg-logo="https://betulunevisleri.xyz/images/trt14K.png" group-title="TR ULUSAL",TRT 1
-http://116.202.238.88/TRT1_TR/index.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1  tvg-name="TRT 1 HD" tvg-id="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" group-title="TR ULUSAL",TRT 1 HD
 http://95.174.71.114:80/TR-TRT1/index.m3u8
 #EXTINF:-1  tvg-name="TRT 2 HD" tvg-id="TRT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png" group-title="TR ULUSAL",TRT 2 HD
