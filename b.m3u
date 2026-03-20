@@ -21,8 +21,6 @@ https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1  tvg-name="GZT TV" tvg-id="GZT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/2560px-GZT_logo.svg.png" group-title="YEREL",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
-#EXTINF:-1  tvg-name="Kanal 15" tvg-id="Kanal 15" tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="YEREL",Kanal 15
-http://185.234.111.229:8000/play/a04e
 #EXTINF:-1  tvg-name="Kanal 23 HD" tvg-id="Kanal 23 HD" tvg-logo="https://www.kanal23.com/images/logo.png" group-title="YEREL",Kanal 23 HD
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
 #EXTINF:-1  tvg-name="Kanal 26 HD" tvg-id="Kanal 26 HD" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_70.png" group-title="YEREL",Kanal 26 HD
@@ -209,8 +207,6 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="Vollprogramm" ,ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png", group-title="Spartenprogramm" DF1 HD
-https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Spartenprogramm" ,ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
